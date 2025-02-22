@@ -1,2 +1,8 @@
-# Operational_Research_2024
-Finding optimal solution in optimization problems (e.g. Shortest Path and Minimum Cost Problems), using the Gurobi Solver (Python).
+# Operational Research Assignment (2024)
+
+Computational Assignment for the "Operational Research" Course\
+School of Electrical and Computer Engineering, AUTh\
+Electronics and Computers Department, 8th Semester\
+2024
+
+
